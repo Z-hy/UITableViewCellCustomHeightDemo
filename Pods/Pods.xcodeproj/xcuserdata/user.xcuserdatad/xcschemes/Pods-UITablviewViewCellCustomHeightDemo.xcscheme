@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0830"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE9E5C1E1ECAD30A006BAAD6"
-               BuildableName = "UITablviewViewCellCustomHeightDemo.app"
-               BlueprintName = "UITablviewViewCellCustomHeightDemo"
-               ReferencedContainer = "container:UITablviewViewCellCustomHeightDemo.xcodeproj">
+               BlueprintIdentifier = "703588902CFBD8F46BC0A0A1EA507AC9"
+               BuildableName = "Pods_UITablviewViewCellCustomHeightDemo.framework"
+               BlueprintName = "Pods-UITablviewViewCellCustomHeightDemo"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9E5C1E1ECAD30A006BAAD6"
-            BuildableName = "UITablviewViewCellCustomHeightDemo.app"
-            BlueprintName = "UITablviewViewCellCustomHeightDemo"
-            ReferencedContainer = "container:UITablviewViewCellCustomHeightDemo.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9E5C1E1ECAD30A006BAAD6"
-            BuildableName = "UITablviewViewCellCustomHeightDemo.app"
-            BlueprintName = "UITablviewViewCellCustomHeightDemo"
-            ReferencedContainer = "container:UITablviewViewCellCustomHeightDemo.xcodeproj">
+            BlueprintIdentifier = "703588902CFBD8F46BC0A0A1EA507AC9"
+            BuildableName = "Pods_UITablviewViewCellCustomHeightDemo.framework"
+            BlueprintName = "Pods-UITablviewViewCellCustomHeightDemo"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE9E5C1E1ECAD30A006BAAD6"
-            BuildableName = "UITablviewViewCellCustomHeightDemo.app"
-            BlueprintName = "UITablviewViewCellCustomHeightDemo"
-            ReferencedContainer = "container:UITablviewViewCellCustomHeightDemo.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
