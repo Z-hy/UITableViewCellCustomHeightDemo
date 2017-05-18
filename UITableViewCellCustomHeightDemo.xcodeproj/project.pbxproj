@@ -7,35 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE8CB38B1ECAE63600EB87DE /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB38A1ECAE63600EB87DE /* ListViewModel.swift */; };
-		CE8CB38D1ECAEB9000EB87DE /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB38C1ECAEB9000EB87DE /* ListTableViewCell.swift */; };
-		CE8CB38F1ECAEDA400EB87DE /* ShowImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB38E1ECAEDA400EB87DE /* ShowImageView.swift */; };
-		CE8CB3911ECB02AE00EB87DE /* UIView - Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB3901ECB02AE00EB87DE /* UIView - Extension.swift */; };
-		CE9E5C231ECAD30A006BAAD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9E5C221ECAD30A006BAAD6 /* AppDelegate.swift */; };
-		CE9E5C251ECAD30A006BAAD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9E5C241ECAD30A006BAAD6 /* ViewController.swift */; };
-		CE9E5C281ECAD30A006BAAD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9E5C261ECAD30A006BAAD6 /* Main.storyboard */; };
-		CE9E5C2A1ECAD30A006BAAD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9E5C291ECAD30A006BAAD6 /* Assets.xcassets */; };
-		CE9E5C2D1ECAD30A006BAAD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9E5C2B1ECAD30A006BAAD6 /* LaunchScreen.storyboard */; };
-		CE9E5C351ECADAC2006BAAD6 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9E5C341ECADAC2006BAAD6 /* ListTableViewController.swift */; };
-		FB981C100FFBF6EE6DAED2BF /* Pods_UITablviewViewCellCustomHeightDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF2C1799D21EA046D48C4B34 /* Pods_UITablviewViewCellCustomHeightDemo.framework */; };
+		B18E7DAFC922E746C37A22AB /* Pods_UITableViewCellCustomHeightDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4EC38BAD1C9C527A39B2FF3 /* Pods_UITableViewCellCustomHeightDemo.framework */; };
+		CE7568641ECD2B7100523237 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7568571ECD2B7100523237 /* AppDelegate.swift */; };
+		CE7568651ECD2B7100523237 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7568581ECD2B7100523237 /* Assets.xcassets */; };
+		CE7568661ECD2B7100523237 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7568591ECD2B7100523237 /* LaunchScreen.storyboard */; };
+		CE7568671ECD2B7100523237 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE75685B1ECD2B7100523237 /* Main.storyboard */; };
+		CE7568691ECD2B7100523237 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE75685E1ECD2B7100523237 /* ListTableViewCell.swift */; };
+		CE75686A1ECD2B7100523237 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE75685F1ECD2B7100523237 /* ListTableViewController.swift */; };
+		CE75686B1ECD2B7100523237 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7568601ECD2B7100523237 /* ListViewModel.swift */; };
+		CE75686C1ECD2B7100523237 /* ShowImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7568611ECD2B7100523237 /* ShowImageView.swift */; };
+		CE75686D1ECD2B7100523237 /* UIView - Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7568621ECD2B7100523237 /* UIView - Extension.swift */; };
+		CE75686E1ECD2B7100523237 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7568631ECD2B7100523237 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		86212752BEEAF098E77DD301 /* Pods-UITablviewViewCellCustomHeightDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITablviewViewCellCustomHeightDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UITablviewViewCellCustomHeightDemo/Pods-UITablviewViewCellCustomHeightDemo.debug.xcconfig"; sourceTree = "<group>"; };
-		CE8CB38A1ECAE63600EB87DE /* ListViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
-		CE8CB38C1ECAEB9000EB87DE /* ListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
-		CE8CB38E1ECAEDA400EB87DE /* ShowImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowImageView.swift; sourceTree = "<group>"; };
-		CE8CB3901ECB02AE00EB87DE /* UIView - Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView - Extension.swift"; sourceTree = "<group>"; };
-		CE9E5C1F1ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITablviewViewCellCustomHeightDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE9E5C221ECAD30A006BAAD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CE9E5C241ECAD30A006BAAD6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CE9E5C271ECAD30A006BAAD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CE9E5C291ECAD30A006BAAD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CE9E5C2C1ECAD30A006BAAD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CE9E5C2E1ECAD30A006BAAD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CE9E5C341ECADAC2006BAAD6 /* ListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
-		CF2C1799D21EA046D48C4B34 /* Pods_UITablviewViewCellCustomHeightDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UITablviewViewCellCustomHeightDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4F76313A2850EF9093B722F /* Pods-UITablviewViewCellCustomHeightDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITablviewViewCellCustomHeightDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-UITablviewViewCellCustomHeightDemo/Pods-UITablviewViewCellCustomHeightDemo.release.xcconfig"; sourceTree = "<group>"; };
+		03EC0F3F3F105872462EE9DA /* Pods-UITableViewCellCustomHeightDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewCellCustomHeightDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UITableViewCellCustomHeightDemo/Pods-UITableViewCellCustomHeightDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		0D2A889BDBA469F4D592A7AB /* Pods-UITableViewCellCustomHeightDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewCellCustomHeightDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-UITableViewCellCustomHeightDemo/Pods-UITableViewCellCustomHeightDemo.release.xcconfig"; sourceTree = "<group>"; };
+		CE7568571ECD2B7100523237 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CE7568581ECD2B7100523237 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CE75685A1ECD2B7100523237 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CE75685C1ECD2B7100523237 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CE75685D1ECD2B7100523237 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE75685E1ECD2B7100523237 /* ListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
+		CE75685F1ECD2B7100523237 /* ListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
+		CE7568601ECD2B7100523237 /* ListViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		CE7568611ECD2B7100523237 /* ShowImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowImageView.swift; sourceTree = "<group>"; };
+		CE7568621ECD2B7100523237 /* UIView - Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView - Extension.swift"; sourceTree = "<group>"; };
+		CE7568631ECD2B7100523237 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CE9E5C1F1ECAD30A006BAAD6 /* UITableViewCellCustomHeightDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITableViewCellCustomHeightDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4EC38BAD1C9C527A39B2FF3 /* Pods_UITableViewCellCustomHeightDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UITableViewCellCustomHeightDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB981C100FFBF6EE6DAED2BF /* Pods_UITablviewViewCellCustomHeightDemo.framework in Frameworks */,
+				B18E7DAFC922E746C37A22AB /* Pods_UITableViewCellCustomHeightDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,7 +53,7 @@
 		268228CDDFFE1A98AEC38C32 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				CF2C1799D21EA046D48C4B34 /* Pods_UITablviewViewCellCustomHeightDemo.framework */,
+				D4EC38BAD1C9C527A39B2FF3 /* Pods_UITableViewCellCustomHeightDemo.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -61,16 +61,34 @@
 		7C6CECEECA662EC106C5FA54 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				86212752BEEAF098E77DD301 /* Pods-UITablviewViewCellCustomHeightDemo.debug.xcconfig */,
-				F4F76313A2850EF9093B722F /* Pods-UITablviewViewCellCustomHeightDemo.release.xcconfig */,
+				03EC0F3F3F105872462EE9DA /* Pods-UITableViewCellCustomHeightDemo.debug.xcconfig */,
+				0D2A889BDBA469F4D592A7AB /* Pods-UITableViewCellCustomHeightDemo.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		CE7568561ECD2B7100523237 /* UITableViewCellCustomHeightDemo */ = {
+			isa = PBXGroup;
+			children = (
+				CE7568571ECD2B7100523237 /* AppDelegate.swift */,
+				CE7568581ECD2B7100523237 /* Assets.xcassets */,
+				CE7568591ECD2B7100523237 /* LaunchScreen.storyboard */,
+				CE75685B1ECD2B7100523237 /* Main.storyboard */,
+				CE75685D1ECD2B7100523237 /* Info.plist */,
+				CE75685E1ECD2B7100523237 /* ListTableViewCell.swift */,
+				CE75685F1ECD2B7100523237 /* ListTableViewController.swift */,
+				CE7568601ECD2B7100523237 /* ListViewModel.swift */,
+				CE7568611ECD2B7100523237 /* ShowImageView.swift */,
+				CE7568621ECD2B7100523237 /* UIView - Extension.swift */,
+				CE7568631ECD2B7100523237 /* ViewController.swift */,
+			);
+			path = UITableViewCellCustomHeightDemo;
 			sourceTree = "<group>";
 		};
 		CE9E5C161ECAD30A006BAAD6 = {
 			isa = PBXGroup;
 			children = (
-				CE9E5C211ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo */,
+				CE7568561ECD2B7100523237 /* UITableViewCellCustomHeightDemo */,
 				CE9E5C201ECAD30A006BAAD6 /* Products */,
 				7C6CECEECA662EC106C5FA54 /* Pods */,
 				268228CDDFFE1A98AEC38C32 /* Frameworks */,
@@ -80,35 +98,17 @@
 		CE9E5C201ECAD30A006BAAD6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CE9E5C1F1ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo.app */,
+				CE9E5C1F1ECAD30A006BAAD6 /* UITableViewCellCustomHeightDemo.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		CE9E5C211ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo */ = {
-			isa = PBXGroup;
-			children = (
-				CE9E5C221ECAD30A006BAAD6 /* AppDelegate.swift */,
-				CE9E5C241ECAD30A006BAAD6 /* ViewController.swift */,
-				CE9E5C341ECADAC2006BAAD6 /* ListTableViewController.swift */,
-				CE8CB38A1ECAE63600EB87DE /* ListViewModel.swift */,
-				CE8CB38C1ECAEB9000EB87DE /* ListTableViewCell.swift */,
-				CE8CB38E1ECAEDA400EB87DE /* ShowImageView.swift */,
-				CE8CB3901ECB02AE00EB87DE /* UIView - Extension.swift */,
-				CE9E5C261ECAD30A006BAAD6 /* Main.storyboard */,
-				CE9E5C291ECAD30A006BAAD6 /* Assets.xcassets */,
-				CE9E5C2B1ECAD30A006BAAD6 /* LaunchScreen.storyboard */,
-				CE9E5C2E1ECAD30A006BAAD6 /* Info.plist */,
-			);
-			path = UITablviewViewCellCustomHeightDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CE9E5C1E1ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo */ = {
+		CE9E5C1E1ECAD30A006BAAD6 /* UITableViewCellCustomHeightDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CE9E5C311ECAD30A006BAAD6 /* Build configuration list for PBXNativeTarget "UITablviewViewCellCustomHeightDemo" */;
+			buildConfigurationList = CE9E5C311ECAD30A006BAAD6 /* Build configuration list for PBXNativeTarget "UITableViewCellCustomHeightDemo" */;
 			buildPhases = (
 				AF9DC8965393B6965E2093CD /* [CP] Check Pods Manifest.lock */,
 				CE9E5C1B1ECAD30A006BAAD6 /* Sources */,
@@ -121,9 +121,9 @@
 			);
 			dependencies = (
 			);
-			name = UITablviewViewCellCustomHeightDemo;
+			name = UITableViewCellCustomHeightDemo;
 			productName = UITablviewViewCellCustomHeightDemo;
-			productReference = CE9E5C1F1ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo.app */;
+			productReference = CE9E5C1F1ECAD30A006BAAD6 /* UITableViewCellCustomHeightDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CE9E5C1A1ECAD30A006BAAD6 /* Build configuration list for PBXProject "UITablviewViewCellCustomHeightDemo" */;
+			buildConfigurationList = CE9E5C1A1ECAD30A006BAAD6 /* Build configuration list for PBXProject "UITableViewCellCustomHeightDemo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CE9E5C1E1ECAD30A006BAAD6 /* UITablviewViewCellCustomHeightDemo */,
+				CE9E5C1E1ECAD30A006BAAD6 /* UITableViewCellCustomHeightDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -166,9 +166,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE9E5C2D1ECAD30A006BAAD6 /* LaunchScreen.storyboard in Resources */,
-				CE9E5C2A1ECAD30A006BAAD6 /* Assets.xcassets in Resources */,
-				CE9E5C281ECAD30A006BAAD6 /* Main.storyboard in Resources */,
+				CE7568671ECD2B7100523237 /* Main.storyboard in Resources */,
+				CE7568651ECD2B7100523237 /* Assets.xcassets in Resources */,
+				CE7568661ECD2B7100523237 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,7 +187,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-UITablviewViewCellCustomHeightDemo/Pods-UITablviewViewCellCustomHeightDemo-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-UITableViewCellCustomHeightDemo/Pods-UITableViewCellCustomHeightDemo-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6F56D2DF8BE6EE83581A7A2A /* [CP] Embed Pods Frameworks */ = {
@@ -202,7 +202,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-UITablviewViewCellCustomHeightDemo/Pods-UITablviewViewCellCustomHeightDemo-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-UITableViewCellCustomHeightDemo/Pods-UITableViewCellCustomHeightDemo-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		AF9DC8965393B6965E2093CD /* [CP] Check Pods Manifest.lock */ = {
@@ -227,33 +227,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE9E5C351ECADAC2006BAAD6 /* ListTableViewController.swift in Sources */,
-				CE8CB38F1ECAEDA400EB87DE /* ShowImageView.swift in Sources */,
-				CE9E5C251ECAD30A006BAAD6 /* ViewController.swift in Sources */,
-				CE8CB38B1ECAE63600EB87DE /* ListViewModel.swift in Sources */,
-				CE9E5C231ECAD30A006BAAD6 /* AppDelegate.swift in Sources */,
-				CE8CB3911ECB02AE00EB87DE /* UIView - Extension.swift in Sources */,
-				CE8CB38D1ECAEB9000EB87DE /* ListTableViewCell.swift in Sources */,
+				CE75686C1ECD2B7100523237 /* ShowImageView.swift in Sources */,
+				CE75686A1ECD2B7100523237 /* ListTableViewController.swift in Sources */,
+				CE75686D1ECD2B7100523237 /* UIView - Extension.swift in Sources */,
+				CE7568641ECD2B7100523237 /* AppDelegate.swift in Sources */,
+				CE75686E1ECD2B7100523237 /* ViewController.swift in Sources */,
+				CE75686B1ECD2B7100523237 /* ListViewModel.swift in Sources */,
+				CE7568691ECD2B7100523237 /* ListTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		CE9E5C261ECAD30A006BAAD6 /* Main.storyboard */ = {
+		CE7568591ECD2B7100523237 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CE9E5C271ECAD30A006BAAD6 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		CE9E5C2B1ECAD30A006BAAD6 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CE9E5C2C1ECAD30A006BAAD6 /* Base */,
+				CE75685A1ECD2B7100523237 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		CE75685B1ECD2B7100523237 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE75685C1ECD2B7100523237 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -300,7 +300,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -344,7 +344,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -354,14 +354,15 @@
 		};
 		CE9E5C321ECAD30A006BAAD6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 86212752BEEAF098E77DD301 /* Pods-UITablviewViewCellCustomHeightDemo.debug.xcconfig */;
+			baseConfigurationReference = 03EC0F3F3F105872462EE9DA /* Pods-UITableViewCellCustomHeightDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = Y8HTQSGD6V;
-				INFOPLIST_FILE = UITablviewViewCellCustomHeightDemo/Info.plist;
+				GCC_PREFIX_HEADER = "UITableViewCellCustomHeightDemo/UITableViewCellCustomHeightDemo-Prefix.pch";
+				INFOPLIST_FILE = UITableViewCellCustomHeightDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qianyilc.qianyilicai.UITablviewViewCellCustomHeightDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qianyilc.qianyilicai.UITableViewCellCustomHeightDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -369,14 +370,15 @@
 		};
 		CE9E5C331ECAD30A006BAAD6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F4F76313A2850EF9093B722F /* Pods-UITablviewViewCellCustomHeightDemo.release.xcconfig */;
+			baseConfigurationReference = 0D2A889BDBA469F4D592A7AB /* Pods-UITableViewCellCustomHeightDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = Y8HTQSGD6V;
-				INFOPLIST_FILE = UITablviewViewCellCustomHeightDemo/Info.plist;
+				GCC_PREFIX_HEADER = "UITableViewCellCustomHeightDemo/UITableViewCellCustomHeightDemo-Prefix.pch";
+				INFOPLIST_FILE = UITableViewCellCustomHeightDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qianyilc.qianyilicai.UITablviewViewCellCustomHeightDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qianyilc.qianyilicai.UITableViewCellCustomHeightDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -385,7 +387,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CE9E5C1A1ECAD30A006BAAD6 /* Build configuration list for PBXProject "UITablviewViewCellCustomHeightDemo" */ = {
+		CE9E5C1A1ECAD30A006BAAD6 /* Build configuration list for PBXProject "UITableViewCellCustomHeightDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE9E5C2F1ECAD30A006BAAD6 /* Debug */,
@@ -394,7 +396,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CE9E5C311ECAD30A006BAAD6 /* Build configuration list for PBXNativeTarget "UITablviewViewCellCustomHeightDemo" */ = {
+		CE9E5C311ECAD30A006BAAD6 /* Build configuration list for PBXNativeTarget "UITableViewCellCustomHeightDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE9E5C321ECAD30A006BAAD6 /* Debug */,

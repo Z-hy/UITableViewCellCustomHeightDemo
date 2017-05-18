@@ -5,7 +5,7 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target 'UITablviewViewCellCustomHeightDemo' do
+target 'UITableViewCellCustomHeightDemo' do
 
 pod 'HandyJSON', '~> 1.7.1'
 pod 'SnapKit', '~> 3.2.0'

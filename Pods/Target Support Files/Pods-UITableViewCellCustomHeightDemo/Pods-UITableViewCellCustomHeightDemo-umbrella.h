@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_UITablviewViewCellCustomHeightDemoVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_UITablviewViewCellCustomHeightDemoVersionString[];
+FOUNDATION_EXPORT double Pods_UITableViewCellCustomHeightDemoVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_UITableViewCellCustomHeightDemoVersionString[];
 

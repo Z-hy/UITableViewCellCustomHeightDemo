@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "703588902CFBD8F46BC0A0A1EA507AC9"
-               BuildableName = "Pods_UITablviewViewCellCustomHeightDemo.framework"
-               BlueprintName = "Pods-UITablviewViewCellCustomHeightDemo"
+               BlueprintIdentifier = "DA945BB42394003C8C768C8DCB39C248"
+               BuildableName = "Pods_UITableViewCellCustomHeightDemo.framework"
+               BlueprintName = "Pods-UITableViewCellCustomHeightDemo"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "703588902CFBD8F46BC0A0A1EA507AC9"
-            BuildableName = "Pods_UITablviewViewCellCustomHeightDemo.framework"
-            BlueprintName = "Pods-UITablviewViewCellCustomHeightDemo"
+            BlueprintIdentifier = "DA945BB42394003C8C768C8DCB39C248"
+            BuildableName = "Pods_UITableViewCellCustomHeightDemo.framework"
+            BlueprintName = "Pods-UITableViewCellCustomHeightDemo"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

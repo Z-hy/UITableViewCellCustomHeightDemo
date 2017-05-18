@@ -1,6 +1,0 @@
-framework module Pods_UITablviewViewCellCustomHeightDemo {
-  umbrella header "Pods-UITablviewViewCellCustomHeightDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}
